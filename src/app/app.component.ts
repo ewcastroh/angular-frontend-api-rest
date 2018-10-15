@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular-frontend-api-rest';
+  title = 'Bienvenido a angular-frontend-api-rest';
+  curso = 'Angular con Spring 5';
+  profesor = 'Eimer Castro';
 }
